@@ -1,0 +1,15 @@
+{
+    "campaigns": [{
+        "id": "e8c2012a-ff16-4c2b-9e20-e91667092e2f",
+        "name": "campaign 1",
+        "startDate": "Sun Feb 12 2023 12:06:40 GMT+0200",
+        "bid": "1.5",
+        "status": "Live"
+    }, {
+        "id": "346dc938-8053-41aa-937c-ec07a4cf8c9e",
+        "name": "campaign 2",
+        "startDate": "Sun Feb 8 2023 12:06:40 GMT+0200",
+        "bid": "3.1",
+        "status": "Pending"
+    }]
+}

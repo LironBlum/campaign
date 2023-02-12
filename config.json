@@ -1,0 +1,6 @@
+{
+    "db_default_campaign_limit": "10",
+    "campaign_host": "http://api.ironsrc.com",
+    "campaign_by_id_path": "/interview/delivery/[campaign_id]",
+    "campaign_stats_path": "/interview/stats?ids=[campaign_id]"
+}
